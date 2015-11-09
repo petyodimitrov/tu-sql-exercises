@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionDocuments", "SolutionDocuments", "{B957AA60-3115-4FC1-8D73-FC13BFA76043}"
+	ProjectSection(SolutionItems) = preProject
+		BISolutionWorksheets.xlsx = BISolutionWorksheets.xlsx
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DWPubsSales", "DWPubsSales", "{4C258269-7DC1-441E-9226-94CB33FE0F24}"
+	ProjectSection(SolutionItems) = preProject
+		DWPubsSales\Create DWPubsSales Script.sql = DWPubsSales\Create DWPubsSales Script.sql
+		DWPubsSales\InstPubs.sql = DWPubsSales\InstPubs.sql
+		DWPubsSales\PublicationsIndustriesETLCode.sql = DWPubsSales\PublicationsIndustriesETLCode.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
